@@ -7,7 +7,7 @@ body {
     margin: 0;
     background-color: cornsilk;
 }
-
+ 
 .containter {
     text-align: center;
     background-color: aquamarine;
@@ -15,11 +15,11 @@ body {
     border-radius: 8px;
     box-shadow: rgba(0, 0, 0, 0.1);
 }
-
+ 
 form {
     margin-bottom: 20px;
 }
-
+ 
 .oculto{
     display: none;
 }
